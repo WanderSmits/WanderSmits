@@ -3,7 +3,7 @@
 <!--
 **WanderSmits/WanderSmits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
- Checkout my first full-stack proejct (https://github.com/WanderSmits/relaxation_client)
+ Checkout my first full-stack project (https://github.com/WanderSmits/relaxation_client)
 
  🔭 I’m currently working on [a chat app, because of the Covid loneliness] (https://github.com/WanderSmits/Chat_app)
 
