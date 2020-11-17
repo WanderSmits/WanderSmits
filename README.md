@@ -6,10 +6,10 @@
 
  🔭 I’m currently working on [a chat app, because of the Covid loneliness] (https://github.com/WanderSmits/Chat_app)
 
-Connect with me on: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />] (https://www.linkedin.com/in/wandersmits/)
+Connect with me on: <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> (https://www.linkedin.com/in/wandersmits/)
 
+<p float="left">
 Languages and Tools: 
-
 <img src="https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
@@ -25,6 +25,8 @@ Languages and Tools:
 <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
 
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=WanderSmits)](https://github.com/anuraghazra/github-readme-stats)
