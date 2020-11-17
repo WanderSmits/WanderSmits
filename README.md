@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**WanderSmits/WanderSmits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
  Checkout my first full-stack project (https://github.com/WanderSmits/relaxation_client)
 
@@ -30,4 +29,4 @@ Languages and Tools:
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=WanderSmits)](https://github.com/anuraghazra/github-readme-stats)
 
--->
+
