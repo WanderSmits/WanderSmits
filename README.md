@@ -3,14 +3,14 @@
 <br />
 
 
- :eyeglasses: [Checkout my first full-stack project](https://github.com/WanderSmits/relaxation_client)
+ :eyeglasses: - [Checkout my first full-stack project](https://github.com/WanderSmits/relaxation_client)
 <br />
 <br />
 
  
  
 
- 🔭 I’m currently working on [a chat app, so we can still communicate during Covid19](https://github.com/WanderSmits/Chat_app)
+ 🔭 - I’m currently working on [a chat app, so we can still communicate during Covid19](https://github.com/WanderSmits/Chat_app)
 <br />
 <br />
 
