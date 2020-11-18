@@ -5,9 +5,7 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
+
 
  [Checkout my first full-stack project](https://github.com/WanderSmits/relaxation_client)
 <br />
