@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <header><img src="header.png"></header>
 <br />
 <br />
