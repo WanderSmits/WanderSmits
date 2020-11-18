@@ -11,22 +11,19 @@
 
  [Checkout my first full-stack project](https://github.com/WanderSmits/relaxation_client)
 <br />
-<br />
-<br />
+
  
  
 
  🔭 I’m currently working on [a chat app, so we can still communicate during Covid19](https://github.com/WanderSmits/Chat_app)
 <br />
-<br />
-<br />
+
  
  
 
 Connect with me on: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wandersmits/)
 <br />
-<br />
-<br />
+
 
 
 
@@ -47,8 +44,7 @@ Languages and Tools:
 <img src="https://img.shields.io/badge/styled_components%20-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />
 </p>
 <br />
-<br />
-<br />
+
 
  
 [![My github stats](https://github-readme-stats.vercel.app/api?username=WanderSmits)](https://github.com/anuraghazra/github-readme-stats)
