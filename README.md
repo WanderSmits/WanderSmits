@@ -17,7 +17,7 @@
  
  
 
-Connect with me on: [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" widht="40" height="40" />](https://www.linkedin.com/in/wandersmits/)
+Connect with me on: &nbsp  [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" widht="40" height="40" />](https://www.linkedin.com/in/wandersmits/)
 <br />
 <br />
 
