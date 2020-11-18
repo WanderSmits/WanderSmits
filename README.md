@@ -17,7 +17,7 @@
  
  
 
-Connect with me on: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wandersmits/)
+Connect with me on: [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://www.linkedin.com/in/wandersmits/)
 <br />
 <br />
 
