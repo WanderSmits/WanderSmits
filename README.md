@@ -4,7 +4,7 @@
  
  
 
-- 🔭 I’m currently working on [A realtime chat app (with Tailwind-css framework)](https://github.com/WanderSmits/chat-app)
+- 🔭 [I’m currently working on A realtime chat app (with Tailwind-css framework)](https://github.com/WanderSmits/chat-app)
 <br />
 <br />
 
