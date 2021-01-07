@@ -1,18 +1,20 @@
 <header><img src="header.png"></header>
 <br />
 <br />
-
-
-- :eyeglasses: [My first TypeScript and Vue.js project](https://github.com/WanderSmits/movIEZ)
-<br />
-<br />
-
  
  
 
 - 🔭 I’m currently working on [A realtime chat app (With Tailwind-css framework)](https://github.com/WanderSmits/Chat_app)
 <br />
 <br />
+
+
+
+
+- :eyeglasses: [My first TypeScript and Vue.js project](https://github.com/WanderSmits/movIEZ)
+<br />
+<br />
+
 
  
  
